@@ -4,8 +4,8 @@
 
 # This is a Python implementation of Eratosthenes'
 # sieve, a classic algorithm used to identify small prime 
-# numbers in some range. This file is meant to accompany my historical
-# and analytical paper on the algorithm, which can be found on GitHub
+# numbers in some range. This file is meant to accompany my research and analysis
+# on the algorithm, which can be found on GitHub.
 # as well. The implementation here is partially based 
 # on the Wikipedia pseudocode found at 
 # https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
