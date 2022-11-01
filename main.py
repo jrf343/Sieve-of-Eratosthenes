@@ -1,6 +1,6 @@
 # main.py
 # author Julia Frances <jrf343@drexel.edu>
-# date July 17, 2022
+# date July 13, 2022
 
 # This is a Python implementation of Eratosthenes'
 # sieve, a classic algorithm used to identify small prime 
